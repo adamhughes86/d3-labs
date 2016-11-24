@@ -1,0 +1,20 @@
+// CSS should follow CCF1 coding standard
+
+
+// Settings - tend to do nothing on their own. Used in combination with other files
+@import 'settings/mixin';
+@import 'settings/fonts';
+@import 'settings/color-palette';
+@import 'settings/variables';
+@import 'settings/media-queries';
+
+// UI - Basic styles to be reused on every page
+@import 'ui/structure';
+@import 'ui/typography';
+@import 'ui/icons';
+
+// Objects - reusable objects
+
+// Components - specific use cases
+
+// Styles that need to load last

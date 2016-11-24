@@ -1,0 +1,12 @@
+<svg width="51px" height="51px" viewBox="2200 417 51 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <circle id="path-1" cx="25" cy="25" r="25"></circle>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="50" fill="white">
+      <use xlink:href="#path-1"></use>
+    </mask>
+  </defs>
+  <g id="btn-right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(2200.000000, 417.000000)">
+    <use id="Oval-9" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="10" xlink:href="#path-1"></use>
+    <polyline id="Path-16" stroke="#FFFFFF" stroke-width="6" transform="translate(25.173497, 25.330372) scale(-1, 1) translate(-25.173497, -25.330372) " points="29.3137487 17 21 25.3137487 29.346995 33.6607437"></polyline>
+  </g>
+</svg>
